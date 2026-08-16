@@ -1,0 +1,5122 @@
+fileFormatVersion: 2
+guid: f3b57b71c720b3946b5d31676c277af7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7811654762998630694
+    second: syg_anime-animal-7024080_0
+  - first:
+      213: -2197400395592913722
+    second: syg_anime-animal-7024080_1
+  - first:
+      213: 1606987603591294786
+    second: syg_anime-animal-7024080_2
+  - first:
+      213: 2794909616219323353
+    second: syg_anime-animal-7024080_3
+  - first:
+      213: 2012067468134286958
+    second: syg_anime-animal-7024080_4
+  - first:
+      213: -7346738529022205620
+    second: syg_anime-animal-7024080_5
+  - first:
+      213: 1035972713472277157
+    second: syg_anime-animal-7024080_6
+  - first:
+      213: -702807203860026778
+    second: syg_anime-animal-7024080_7
+  - first:
+      213: 2458243889135591094
+    second: syg_anime-animal-7024080_8
+  - first:
+      213: 3717469389489868877
+    second: syg_anime-animal-7024080_9
+  - first:
+      213: 6140581011734641083
+    second: syg_anime-animal-7024080_10
+  - first:
+      213: -717982148130217693
+    second: syg_anime-animal-7024080_11
+  - first:
+      213: -7141544149818702715
+    second: syg_anime-animal-7024080_12
+  - first:
+      213: -3337470741116039252
+    second: syg_anime-animal-7024080_13
+  - first:
+      213: 1440494184078262693
+    second: syg_anime-animal-7024080_14
+  - first:
+      213: -1131454112915323758
+    second: syg_anime-animal-7024080_15
+  - first:
+      213: -8363024350866707128
+    second: syg_anime-animal-7024080_16
+  - first:
+      213: 1490082520118994149
+    second: syg_anime-animal-7024080_17
+  - first:
+      213: -3906518479406299652
+    second: syg_anime-animal-7024080_18
+  - first:
+      213: -1223399717424299429
+    second: syg_anime-animal-7024080_19
+  - first:
+      213: -429128103139766947
+    second: syg_anime-animal-7024080_20
+  - first:
+      213: -2665073367086791295
+    second: syg_anime-animal-7024080_21
+  - first:
+      213: 8242281481511302441
+    second: syg_anime-animal-7024080_22
+  - first:
+      213: 5839008988027505774
+    second: syg_anime-animal-7024080_23
+  - first:
+      213: -8516438803239562354
+    second: syg_anime-animal-7024080_24
+  - first:
+      213: 3168044014799433441
+    second: syg_anime-animal-7024080_25
+  - first:
+      213: -1572682103861229314
+    second: syg_anime-animal-7024080_26
+  - first:
+      213: 7693656707557988244
+    second: syg_anime-animal-7024080_27
+  - first:
+      213: -8970215694655857304
+    second: syg_anime-animal-7024080_28
+  - first:
+      213: -5625848477107306346
+    second: syg_anime-animal-7024080_29
+  - first:
+      213: 208482358243818651
+    second: syg_anime-animal-7024080_30
+  - first:
+      213: -2995641131754787979
+    second: syg_anime-animal-7024080_31
+  - first:
+      213: -746960282377209854
+    second: syg_anime-animal-7024080_32
+  - first:
+      213: -4724718186535117236
+    second: syg_anime-animal-7024080_33
+  - first:
+      213: -3303231206415656776
+    second: syg_anime-animal-7024080_34
+  - first:
+      213: 4504057097821869240
+    second: syg_anime-animal-7024080_35
+  - first:
+      213: 6729539127457864088
+    second: syg_anime-animal-7024080_36
+  - first:
+      213: 6985195052386562123
+    second: syg_anime-animal-7024080_37
+  - first:
+      213: -2429398473764399901
+    second: syg_anime-animal-7024080_38
+  - first:
+      213: -6011008976076866702
+    second: syg_anime-animal-7024080_39
+  - first:
+      213: -4952845257067818193
+    second: syg_anime-animal-7024080_40
+  - first:
+      213: -5054011049525664029
+    second: syg_anime-animal-7024080_41
+  - first:
+      213: 8146596315836866008
+    second: syg_anime-animal-7024080_42
+  - first:
+      213: -1456798793502119801
+    second: syg_anime-animal-7024080_43
+  - first:
+      213: 5975136424044135573
+    second: syg_anime-animal-7024080_44
+  - first:
+      213: 7241913305697196169
+    second: syg_anime-animal-7024080_45
+  - first:
+      213: 2316330755299323691
+    second: syg_anime-animal-7024080_46
+  - first:
+      213: -3647041360905093965
+    second: syg_anime-animal-7024080_47
+  - first:
+      213: 7350586480369679584
+    second: syg_anime-animal-7024080_48
+  - first:
+      213: 7345993015677798563
+    second: syg_anime-animal-7024080_49
+  - first:
+      213: 7182585900076626830
+    second: syg_anime-animal-7024080_50
+  - first:
+      213: 6803842303747904016
+    second: syg_anime-animal-7024080_51
+  - first:
+      213: 1997149121287167775
+    second: syg_anime-animal-7024080_52
+  - first:
+      213: 7917432520754725491
+    second: syg_anime-animal-7024080_53
+  - first:
+      213: 1085830633340769943
+    second: syg_anime-animal-7024080_54
+  - first:
+      213: -2846963322645641351
+    second: syg_anime-animal-7024080_55
+  - first:
+      213: -4887623495525546824
+    second: syg_anime-animal-7024080_56
+  - first:
+      213: -959869095989634108
+    second: syg_anime-animal-7024080_57
+  - first:
+      213: 1489671818065325450
+    second: syg_anime-animal-7024080_58
+  - first:
+      213: -8987399782339590750
+    second: syg_anime-animal-7024080_59
+  - first:
+      213: -2823245978232726059
+    second: syg_anime-animal-7024080_60
+  - first:
+      213: 6895753530343834788
+    second: syg_anime-animal-7024080_61
+  - first:
+      213: 8599346703098971183
+    second: syg_anime-animal-7024080_62
+  - first:
+      213: 423002770770700890
+    second: syg_anime-animal-7024080_63
+  - first:
+      213: 6411602058168263153
+    second: syg_anime-animal-7024080_64
+  - first:
+      213: 7006924263050377119
+    second: syg_anime-animal-7024080_65
+  - first:
+      213: -7550986544362922909
+    second: syg_anime-animal-7024080_66
+  - first:
+      213: -7138988356947805562
+    second: syg_anime-animal-7024080_67
+  - first:
+      213: -5189383851483971128
+    second: syg_anime-animal-7024080_68
+  - first:
+      213: 1793825268230038959
+    second: syg_anime-animal-7024080_69
+  - first:
+      213: -9198474925405180294
+    second: syg_anime-animal-7024080_70
+  - first:
+      213: -2554450391926482062
+    second: syg_anime-animal-7024080_71
+  - first:
+      213: -6071338693083643288
+    second: syg_anime-animal-7024080_72
+  - first:
+      213: -2889949384683274812
+    second: syg_anime-animal-7024080_73
+  - first:
+      213: -870141640118947120
+    second: syg_anime-animal-7024080_74
+  - first:
+      213: -6535309489547638362
+    second: syg_anime-animal-7024080_75
+  - first:
+      213: 3691534580391717264
+    second: syg_anime-animal-7024080_76
+  - first:
+      213: -206136974844059827
+    second: syg_anime-animal-7024080_77
+  - first:
+      213: -2934162864155989915
+    second: syg_anime-animal-7024080_78
+  - first:
+      213: 7320006191095610046
+    second: syg_anime-animal-7024080_79
+  - first:
+      213: 4709355158992165855
+    second: syg_anime-animal-7024080_80
+  - first:
+      213: -2230284291104204387
+    second: syg_anime-animal-7024080_81
+  - first:
+      213: -2512235697628967269
+    second: syg_anime-animal-7024080_82
+  - first:
+      213: -8040838266260142561
+    second: syg_anime-animal-7024080_83
+  - first:
+      213: 736009331252198573
+    second: syg_anime-animal-7024080_84
+  - first:
+      213: 3653787849275171711
+    second: syg_anime-animal-7024080_85
+  - first:
+      213: 3949670655353177650
+    second: syg_anime-animal-7024080_86
+  - first:
+      213: -651158063963545912
+    second: syg_anime-animal-7024080_87
+  - first:
+      213: 2664905614359398900
+    second: syg_anime-animal-7024080_88
+  - first:
+      213: 1525039311838770669
+    second: syg_anime-animal-7024080_89
+  - first:
+      213: -604465384238455296
+    second: syg_anime-animal-7024080_90
+  - first:
+      213: 2260146062578157785
+    second: syg_anime-animal-7024080_91
+  - first:
+      213: -1148874124971361780
+    second: syg_anime-animal-7024080_92
+  - first:
+      213: 4172590976819168328
+    second: syg_anime-animal-7024080_93
+  - first:
+      213: -1057282742255963171
+    second: syg_anime-animal-7024080_94
+  - first:
+      213: -5132570279397125483
+    second: syg_anime-animal-7024080_95
+  - first:
+      213: -1893494808389781882
+    second: syg_anime-animal-7024080_96
+  - first:
+      213: 1638150186845199132
+    second: syg_anime-animal-7024080_97
+  - first:
+      213: -7041236414093235140
+    second: syg_anime-animal-7024080_98
+  - first:
+      213: -7359498317019964502
+    second: syg_anime-animal-7024080_99
+  - first:
+      213: 6495527859723116834
+    second: syg_anime-animal-7024080_100
+  - first:
+      213: -4682103830262201198
+    second: syg_anime-animal-7024080_101
+  - first:
+      213: 938893308958465430
+    second: syg_anime-animal-7024080_102
+  - first:
+      213: -3452614001020767552
+    second: syg_anime-animal-7024080_103
+  - first:
+      213: 2304476733422240731
+    second: syg_anime-animal-7024080_104
+  - first:
+      213: 6545850383129469957
+    second: syg_anime-animal-7024080_105
+  - first:
+      213: -1714375730158770003
+    second: syg_anime-animal-7024080_106
+  - first:
+      213: -48873119776585157
+    second: syg_anime-animal-7024080_107
+  - first:
+      213: -2901792674259756559
+    second: syg_anime-animal-7024080_108
+  - first:
+      213: -7423578379014348159
+    second: syg_anime-animal-7024080_109
+  - first:
+      213: -8363249788683861881
+    second: syg_anime-animal-7024080_110
+  - first:
+      213: 4873041469944189741
+    second: syg_anime-animal-7024080_111
+  - first:
+      213: -3172181325159091786
+    second: syg_anime-animal-7024080_112
+  - first:
+      213: -4754544645598002437
+    second: syg_anime-animal-7024080_113
+  - first:
+      213: -7746532187626670085
+    second: syg_anime-animal-7024080_114
+  - first:
+      213: 6911017971372540317
+    second: syg_anime-animal-7024080_115
+  - first:
+      213: -4549355362863594435
+    second: syg_anime-animal-7024080_116
+  - first:
+      213: 7748376039766790457
+    second: syg_anime-animal-7024080_117
+  - first:
+      213: 2974249240984931083
+    second: syg_anime-animal-7024080_118
+  - first:
+      213: -894111537927052680
+    second: syg_anime-animal-7024080_119
+  - first:
+      213: 4153960643928166036
+    second: syg_anime-animal-7024080_120
+  - first:
+      213: 352371549312800622
+    second: syg_anime-animal-7024080_121
+  - first:
+      213: -6214790625643974991
+    second: syg_anime-animal-7024080_122
+  - first:
+      213: 4024799546986167681
+    second: syg_anime-animal-7024080_123
+  - first:
+      213: 1455168438173214628
+    second: syg_anime-animal-7024080_124
+  - first:
+      213: 3670879817444622852
+    second: syg_anime-animal-7024080_125
+  - first:
+      213: 5458558263585648106
+    second: syg_anime-animal-7024080_126
+  - first:
+      213: 7718023121019140864
+    second: syg_anime-animal-7024080_127
+  - first:
+      213: 2813291656282842387
+    second: syg_anime-animal-7024080_128
+  - first:
+      213: 6810387347942806153
+    second: syg_anime-animal-7024080_129
+  - first:
+      213: -2399462094306242063
+    second: syg_anime-animal-7024080_130
+  - first:
+      213: 5840968074698282967
+    second: syg_anime-animal-7024080_131
+  - first:
+      213: -1131912643956804739
+    second: syg_anime-animal-7024080_132
+  - first:
+      213: 5541294001892483406
+    second: syg_anime-animal-7024080_133
+  - first:
+      213: -6903614132549024101
+    second: syg_anime-animal-7024080_134
+  - first:
+      213: -5443276240357514919
+    second: syg_anime-animal-7024080_135
+  - first:
+      213: 2933060967222579858
+    second: syg_anime-animal-7024080_136
+  - first:
+      213: 1194869663250633547
+    second: syg_anime-animal-7024080_137
+  - first:
+      213: 1715429127081647700
+    second: syg_anime-animal-7024080_138
+  - first:
+      213: 204009687046907320
+    second: syg_anime-animal-7024080_139
+  - first:
+      213: 3604667283018507631
+    second: syg_anime-animal-7024080_140
+  - first:
+      213: -8770312946626508694
+    second: syg_anime-animal-7024080_141
+  - first:
+      213: 3641536236743795890
+    second: syg_anime-animal-7024080_142
+  - first:
+      213: -289944798272077754
+    second: syg_anime-animal-7024080_143
+  - first:
+      213: 6904149375367328901
+    second: syg_anime-animal-7024080_144
+  - first:
+      213: -5447078429385077905
+    second: syg_anime-animal-7024080_145
+  - first:
+      213: 7464031299591241521
+    second: syg_anime-animal-7024080_146
+  - first:
+      213: 4988458127728598339
+    second: syg_anime-animal-7024080_147
+  - first:
+      213: -4335168185548912032
+    second: syg_anime-animal-7024080_148
+  - first:
+      213: 2781525660229570350
+    second: syg_anime-animal-7024080_149
+  - first:
+      213: -7196220174036212885
+    second: syg_anime-animal-7024080_150
+  - first:
+      213: -4674741551915764837
+    second: syg_anime-animal-7024080_151
+  - first:
+      213: 6423413033112062555
+    second: syg_anime-animal-7024080_152
+  - first:
+      213: -2527642065898440670
+    second: syg_anime-animal-7024080_153
+  - first:
+      213: -55709770566055409
+    second: syg_anime-animal-7024080_154
+  - first:
+      213: -8773396664912133241
+    second: syg_anime-animal-7024080_155
+  - first:
+      213: -4440712340035633117
+    second: syg_anime-animal-7024080_156
+  - first:
+      213: 6814171462412588474
+    second: syg_anime-animal-7024080_157
+  - first:
+      213: 8916513867361578151
+    second: syg_anime-animal-7024080_158
+  - first:
+      213: -3945526845245546704
+    second: syg_anime-animal-7024080_159
+  - first:
+      213: -7047778426167971224
+    second: syg_anime-animal-7024080_160
+  - first:
+      213: 154532627356783322
+    second: syg_anime-animal-7024080_161
+  - first:
+      213: -6755285497690989215
+    second: syg_anime-animal-7024080_162
+  - first:
+      213: 4301835603518213963
+    second: syg_anime-animal-7024080_163
+  - first:
+      213: -284480850765038346
+    second: syg_anime-animal-7024080_164
+  - first:
+      213: -2991497865368182146
+    second: syg_anime-animal-7024080_165
+  - first:
+      213: -2746238006959399035
+    second: syg_anime-animal-7024080_166
+  - first:
+      213: 908829756625210722
+    second: syg_anime-animal-7024080_167
+  - first:
+      213: 5888698359032192431
+    second: syg_anime-animal-7024080_168
+  - first:
+      213: 2011747530822102699
+    second: syg_anime-animal-7024080_169
+  - first:
+      213: 237318856770905712
+    second: syg_anime-animal-7024080_170
+  - first:
+      213: 177325471308291217
+    second: syg_anime-animal-7024080_171
+  - first:
+      213: -4037091494041633351
+    second: syg_anime-animal-7024080_172
+  - first:
+      213: 7894770209662336790
+    second: syg_anime-animal-7024080_173
+  - first:
+      213: 7320239669797824064
+    second: syg_anime-animal-7024080_174
+  - first:
+      213: -7617339371974866195
+    second: syg_anime-animal-7024080_175
+  - first:
+      213: -1686746239454404911
+    second: syg_anime-animal-7024080_176
+  - first:
+      213: 4310020775732268389
+    second: syg_anime-animal-7024080_177
+  - first:
+      213: -6574396844345534975
+    second: syg_anime-animal-7024080_178
+  - first:
+      213: 4551584927736630985
+    second: syg_anime-animal-7024080_179
+  - first:
+      213: -4321617507773712579
+    second: syg_anime-animal-7024080_180
+  - first:
+      213: -1468168267928276977
+    second: syg_anime-animal-7024080_181
+  - first:
+      213: -1781191692146694908
+    second: syg_anime-animal-7024080_182
+  - first:
+      213: -4050420224472555144
+    second: syg_anime-animal-7024080_183
+  - first:
+      213: 2054530266505190709
+    second: syg_anime-animal-7024080_184
+  - first:
+      213: -3675788022950840661
+    second: syg_anime-animal-7024080_185
+  - first:
+      213: 4323649188787928292
+    second: syg_anime-animal-7024080_186
+  - first:
+      213: 9206323819167986681
+    second: syg_anime-animal-7024080_187
+  - first:
+      213: -832097059345019452
+    second: syg_anime-animal-7024080_188
+  - first:
+      213: 392665498649671632
+    second: syg_anime-animal-7024080_189
+  - first:
+      213: -2765349218147245259
+    second: syg_anime-animal-7024080_190
+  - first:
+      213: -9062915655881164203
+    second: syg_anime-animal-7024080_191
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_0
+      rect:
+        serializedVersion: 2
+        x: 3544
+        y: 4983
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad67a77816d679390800000000000000
+      internalID: -7811654762998630694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_1
+      rect:
+        serializedVersion: 2
+        x: 4250
+        y: 4987
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cca1678bf34181e0800000000000000
+      internalID: -2197400395592913722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_2
+      rect:
+        serializedVersion: 2
+        x: 3601
+        y: 4972
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24fe38616ba2d4610800000000000000
+      internalID: 1606987603591294786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_3
+      rect:
+        serializedVersion: 2
+        x: 3610
+        y: 4965
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db7316ec7389c620800000000000000
+      internalID: 2794909616219323353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_4
+      rect:
+        serializedVersion: 2
+        x: 3644
+        y: 4965
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66834ea3bc4ceb10800000000000000
+      internalID: 2012067468134286958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_5
+      rect:
+        serializedVersion: 2
+        x: 4156
+        y: 4910
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41a4f78b342b0a90800000000000000
+      internalID: -7346738529022205620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_6
+      rect:
+        serializedVersion: 2
+        x: 3435
+        y: 4880
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa338fa1b3806e00800000000000000
+      internalID: 1035972713472277157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_7
+      rect:
+        serializedVersion: 2
+        x: 4089
+        y: 4880
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a665c52902f36f0800000000000000
+      internalID: -702807203860026778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_8
+      rect:
+        serializedVersion: 2
+        x: 4121
+        y: 4883
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be9337facf6d1220800000000000000
+      internalID: 2458243889135591094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_9
+      rect:
+        serializedVersion: 2
+        x: 3961
+        y: 4853
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d409ee7b6ba179330800000000000000
+      internalID: 3717469389489868877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_10
+      rect:
+        serializedVersion: 2
+        x: 4528
+        y: 4852
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9b3fe55e9b73550800000000000000
+      internalID: 6140581011734641083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_11
+      rect:
+        serializedVersion: 2
+        x: 3713
+        y: 4836
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32160a15a073906f0800000000000000
+      internalID: -717982148130217693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_12
+      rect:
+        serializedVersion: 2
+        x: 4226
+        y: 4825
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584894aee6324ec90800000000000000
+      internalID: -7141544149818702715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_13
+      rect:
+        serializedVersion: 2
+        x: 3536
+        y: 4806
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cafc48b2b0ceea1d0800000000000000
+      internalID: -3337470741116039252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_14
+      rect:
+        serializedVersion: 2
+        x: 4583
+        y: 4812
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1400f04d9adf310800000000000000
+      internalID: 1440494184078262693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_15
+      rect:
+        serializedVersion: 2
+        x: 3852
+        y: 4794
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2940700aa744c40f0800000000000000
+      internalID: -1131454112915323758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_16
+      rect:
+        serializedVersion: 2
+        x: 4385
+        y: 4793
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84de5ae79a190fb80800000000000000
+      internalID: -8363024350866707128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_17
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 4781
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e426b14826dda410800000000000000
+      internalID: 1490082520118994149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_18
+      rect:
+        serializedVersion: 2
+        x: 3601
+        y: 4755
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf50d7ef32249c9c0800000000000000
+      internalID: -3906518479406299652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_19
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 4708
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b528c98507c950fe0800000000000000
+      internalID: -1223399717424299429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_20
+      rect:
+        serializedVersion: 2
+        x: 3879
+        y: 4701
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d8739834e6b0af0800000000000000
+      internalID: -429128103139766947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_21
+      rect:
+        serializedVersion: 2
+        x: 3905
+        y: 4693
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185007e84e1c30bd0800000000000000
+      internalID: -2665073367086791295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_22
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 4634
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925f2448657726270800000000000000
+      internalID: 8242281481511302441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_23
+      rect:
+        serializedVersion: 2
+        x: 4575
+        y: 4624
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c41bbfcb3580150800000000000000
+      internalID: 5839008988027505774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_24
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 4606
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e839d8dc7088fc980800000000000000
+      internalID: -8516438803239562354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_25
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 4608
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee2ce61f3727fb20800000000000000
+      internalID: 3168044014799433441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_26
+      rect:
+        serializedVersion: 2
+        x: 4642
+        y: 4605
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8ccbe75f5bc2ae0800000000000000
+      internalID: -1572682103861229314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_27
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 4590
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4979bc5430c55ca60800000000000000
+      internalID: 7693656707557988244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_28
+      rect:
+        serializedVersion: 2
+        x: 3996
+        y: 4597
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d57691a54638380800000000000000
+      internalID: -8970215694655857304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_29
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 4580
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690c8d9fd98fce1b0800000000000000
+      internalID: -5625848477107306346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_30
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 4577
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9cfe09a99da4e200800000000000000
+      internalID: 208482358243818651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_31
+      rect:
+        serializedVersion: 2
+        x: 4470
+        y: 4583
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57be43323485d66d0800000000000000
+      internalID: -2995641131754787979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_32
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 4567
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208b49ba49342a5f0800000000000000
+      internalID: -746960282377209854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_33
+      rect:
+        serializedVersion: 2
+        x: 4585
+        y: 4573
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e1fbb87dd6e6eb0800000000000000
+      internalID: -4724718186535117236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_34
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 4554
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b81c9218b09822d0800000000000000
+      internalID: -3303231206415656776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_35
+      rect:
+        serializedVersion: 2
+        x: 3779
+        y: 4550
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4dfb32110a18e30800000000000000
+      internalID: 4504057097821869240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_36
+      rect:
+        serializedVersion: 2
+        x: 3789
+        y: 4549
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899d73a8e20246d50800000000000000
+      internalID: 6729539127457864088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_37
+      rect:
+        serializedVersion: 2
+        x: 3787
+        y: 4539
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40315814e560f060800000000000000
+      internalID: 6985195052386562123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_38
+      rect:
+        serializedVersion: 2
+        x: 3797
+        y: 4529
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e49569a5fa094ed0800000000000000
+      internalID: -2429398473764399901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_39
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 4502
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27bf0471f2b949ca0800000000000000
+      internalID: -6011008976076866702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_40
+      rect:
+        serializedVersion: 2
+        x: 4116
+        y: 4499
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f239ef0ea75f34bb0800000000000000
+      internalID: -4952845257067818193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_41
+      rect:
+        serializedVersion: 2
+        x: 4330
+        y: 4508
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6af1e4abb8cd9b0800000000000000
+      internalID: -5054011049525664029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_42
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 4480
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd56fdcf268e0170800000000000000
+      internalID: 8146596315836866008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_43
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 4482
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788a61c373968cbe0800000000000000
+      internalID: -1456798793502119801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_44
+      rect:
+        serializedVersion: 2
+        x: 3716
+        y: 4488
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59406a78be2fbe250800000000000000
+      internalID: 5975136424044135573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_45
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 4476
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 988914048c1708460800000000000000
+      internalID: 7241913305697196169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_46
+      rect:
+        serializedVersion: 2
+        x: 4506
+        y: 4448
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2fadebac82452020800000000000000
+      internalID: 2316330755299323691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_47
+      rect:
+        serializedVersion: 2
+        x: 4524
+        y: 4446
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc3812843b136dc0800000000000000
+      internalID: -3647041360905093965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_48
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 4436
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec39357577820660800000000000000
+      internalID: 7350586480369679584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_49
+      rect:
+        serializedVersion: 2
+        x: 4017
+        y: 4434
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8c9fd1ab532f560800000000000000
+      internalID: 7345993015677798563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_50
+      rect:
+        serializedVersion: 2
+        x: 4026
+        y: 4434
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83fbc632dbada360800000000000000
+      internalID: 7182585900076626830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_51
+      rect:
+        serializedVersion: 2
+        x: 4171
+        y: 4428
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0125ba6e68a1c6e50800000000000000
+      internalID: 6803842303747904016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_52
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 4388
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f1ec16b8c47bb10800000000000000
+      internalID: 1997149121287167775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_53
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 4392
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37206b4edee50ed60800000000000000
+      internalID: 7917432520754725491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_54
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 4385
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79693824535a11f00800000000000000
+      internalID: 1085830633340769943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_55
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 4388
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977042121fd8d78d0800000000000000
+      internalID: -2846963322645641351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_56
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 4392
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4c859935cab2cb0800000000000000
+      internalID: -4887623495525546824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_57
+      rect:
+        serializedVersion: 2
+        x: 3900
+        y: 4382
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb99ae842cdda2f0800000000000000
+      internalID: -959869095989634108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_58
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 4373
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8da1bb30a06ca410800000000000000
+      internalID: 1489671818065325450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_59
+      rect:
+        serializedVersion: 2
+        x: 3956
+        y: 4383
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5c937e387564380800000000000000
+      internalID: -8987399782339590750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_60
+      rect:
+        serializedVersion: 2
+        x: 4637
+        y: 4380
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd53e1bdb0d1d8d0800000000000000
+      internalID: -2823245978232726059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_61
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 4374
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a44ac2fc43a2bf50800000000000000
+      internalID: 6895753530343834788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_62
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 4369
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2404a2e344075770800000000000000
+      internalID: 8599346703098971183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_63
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 4364
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a2bc267ceced500800000000000000
+      internalID: 423002770770700890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_64
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 4354
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1684e0a169af850800000000000000
+      internalID: 6411602058168263153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_65
+      rect:
+        serializedVersion: 2
+        x: 4056
+        y: 4360
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97fe233e789d3160800000000000000
+      internalID: 7006924263050377119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_66
+      rect:
+        serializedVersion: 2
+        x: 4652
+        y: 4350
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c5e77aeb1853790800000000000000
+      internalID: -7550986544362922909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_67
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 4331
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68af970d9e73dec90800000000000000
+      internalID: -7138988356947805562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_68
+      rect:
+        serializedVersion: 2
+        x: 3590
+        y: 4326
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c14621b1ea9bf7b0800000000000000
+      internalID: -5189383851483971128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_69
+      rect:
+        serializedVersion: 2
+        x: 3700
+        y: 4336
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5a8fdc392f4e810800000000000000
+      internalID: 1793825268230038959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_70
+      rect:
+        serializedVersion: 2
+        x: 3921
+        y: 4330
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ee2eb7ac3785080800000000000000
+      internalID: -9198474925405180294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_71
+      rect:
+        serializedVersion: 2
+        x: 4512
+        y: 4326
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b5dd017e4cc8cd0800000000000000
+      internalID: -2554450391926482062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_72
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 4320
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8624aaf30a54ebba0800000000000000
+      internalID: -6071338693083643288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_73
+      rect:
+        serializedVersion: 2
+        x: 3605
+        y: 4319
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd3813a856d4e7d0800000000000000
+      internalID: -2889949384683274812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_74
+      rect:
+        serializedVersion: 2
+        x: 3860
+        y: 4326
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d23f6cd9c2ace3f0800000000000000
+      internalID: -870141640118947120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_75
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 4308
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9064215aaed45a0800000000000000
+      internalID: -6535309489547638362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_76
+      rect:
+        serializedVersion: 2
+        x: 3616
+        y: 4316
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099a15c6427fa3330800000000000000
+      internalID: 3691534580391717264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_77
+      rect:
+        serializedVersion: 2
+        x: 3642
+        y: 4297
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f98577387a32df0800000000000000
+      internalID: -206136974844059827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_78
+      rect:
+        serializedVersion: 2
+        x: 3652
+        y: 4295
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568e6d0cb62c747d0800000000000000
+      internalID: -2934162864155989915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_79
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 4288
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebaf9e509d2e59560800000000000000
+      internalID: 7320006191095610046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_80
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 4285
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb91ecd09dfa5140800000000000000
+      internalID: 4709355158992165855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_81
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 4283
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d999998f0407c01e0800000000000000
+      internalID: -2230284291104204387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_82
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 4265
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e05c281feb22dd0800000000000000
+      internalID: -2512235697628967269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_83
+      rect:
+        serializedVersion: 2
+        x: 4506
+        y: 4270
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f164233f234396090800000000000000
+      internalID: -8040838266260142561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_84
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 4258
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dacf8a45694d63a00800000000000000
+      internalID: 736009331252198573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_85
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 4243
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f736fa8b0bcd4b230800000000000000
+      internalID: 3653787849275171711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_86
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 4241
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2364c18e88c00d630800000000000000
+      internalID: 3949670655353177650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_87
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 4221
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce52d8d03f96f6f0800000000000000
+      internalID: -651158063963545912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_88
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 4228
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f906d77985abf420800000000000000
+      internalID: 2664905614359398900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_89
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 4228
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5f7a29c270a2510800000000000000
+      internalID: 1525039311838770669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_90
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 4224
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00662758fe18c97f0800000000000000
+      internalID: -604465384238455296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_91
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 4219
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d808708ed6ad5f10800000000000000
+      internalID: 2260146062578157785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_92
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 4219
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ab17102116e00f0800000000000000
+      internalID: -1148874124971361780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_93
+      rect:
+        serializedVersion: 2
+        x: 3890
+        y: 4220
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8448e46d26508e930800000000000000
+      internalID: 4172590976819168328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_94
+      rect:
+        serializedVersion: 2
+        x: 4467
+        y: 4214
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3bea892f6c351f0800000000000000
+      internalID: -1057282742255963171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_95
+      rect:
+        serializedVersion: 2
+        x: 4527
+        y: 4212
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5929ecf368275c8b0800000000000000
+      internalID: -5132570279397125483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_96
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 4201
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68671e10184f8b5e0800000000000000
+      internalID: -1893494808389781882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_97
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 877
+        width: 3556
+        height: 3309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1bd5a76ae0ebb610800000000000000
+      internalID: 1638150186845199132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_98
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 4178
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c6d6699c0884e90800000000000000
+      internalID: -7041236414093235140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_99
+      rect:
+        serializedVersion: 2
+        x: 4477
+        y: 4178
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab90f0e54fcdd990800000000000000
+      internalID: -7359498317019964502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_100
+      rect:
+        serializedVersion: 2
+        x: 4472
+        y: 4159
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22123737c20c42a50800000000000000
+      internalID: 6495527859723116834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_101
+      rect:
+        serializedVersion: 2
+        x: 4382
+        y: 4127
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294c9bb8f53d50fb0800000000000000
+      internalID: -4682103830262201198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_102
+      rect:
+        serializedVersion: 2
+        x: 4350
+        y: 4103
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69dd5727d7e970d00800000000000000
+      internalID: 938893308958465430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_103
+      rect:
+        serializedVersion: 2
+        x: 4384
+        y: 4104
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2fd9adbd9d510d0800000000000000
+      internalID: -3452614001020767552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_104
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 4095
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd309c021652bff10800000000000000
+      internalID: 2304476733422240731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_105
+      rect:
+        serializedVersion: 2
+        x: 4496
+        y: 4069
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5046947fd3887da50800000000000000
+      internalID: 6545850383129469957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_106
+      rect:
+        serializedVersion: 2
+        x: 4369
+        y: 4052
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8e5584b505538e0800000000000000
+      internalID: -1714375730158770003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_107
+      rect:
+        serializedVersion: 2
+        x: 4379
+        y: 4042
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ac6a0182e525ff0800000000000000
+      internalID: -48873119776585157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_108
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 4023
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f99ae6efe2cab7d0800000000000000
+      internalID: -2901792674259756559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_109
+      rect:
+        serializedVersion: 2
+        x: 4377
+        y: 4019
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182649ccbc62af890800000000000000
+      internalID: -7423578379014348159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_110
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 3929
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78043a9a0a4cfeb80800000000000000
+      internalID: -8363249788683861881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_111
+      rect:
+        serializedVersion: 2
+        x: 4584
+        y: 3929
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2355cff56580a340800000000000000
+      internalID: 4873041469944189741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_112
+      rect:
+        serializedVersion: 2
+        x: 4595
+        y: 3932
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1b3c644e52af3d0800000000000000
+      internalID: -3172181325159091786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_113
+      rect:
+        serializedVersion: 2
+        x: 4368
+        y: 3899
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf24562e5d6740eb0800000000000000
+      internalID: -4754544645598002437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_114
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 3885
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7f16ba40ace7490800000000000000
+      internalID: -7746532187626670085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_115
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 3848
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9140049a3ed8ef50800000000000000
+      internalID: 6911017971372540317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_116
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 3786
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d344f77a6617dd0c0800000000000000
+      internalID: -4549355362863594435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_117
+      rect:
+        serializedVersion: 2
+        x: 4485
+        y: 3791
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931927c94f2c78b60800000000000000
+      internalID: 7748376039766790457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_118
+      rect:
+        serializedVersion: 2
+        x: 4498
+        y: 3791
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0bc16a2de7a64920800000000000000
+      internalID: 2974249240984931083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_119
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 3739
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872a7402b4a7793f0800000000000000
+      internalID: -894111537927052680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_120
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 3726
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e8a407235d5a930800000000000000
+      internalID: 4153960643928166036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_121
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 3710
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e675eb1ae00e3e400800000000000000
+      internalID: 352371549312800622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_122
+      rect:
+        serializedVersion: 2
+        x: 4534
+        y: 3714
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be20157ad0a0c9a0800000000000000
+      internalID: -6214790625643974991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_123
+      rect:
+        serializedVersion: 2
+        x: 4571
+        y: 3709
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d734a1dd5fad730800000000000000
+      internalID: 4024799546986167681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_124
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 3693
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7aca51cfbc13410800000000000000
+      internalID: 1455168438173214628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_125
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 3678
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40200fbaeb591f230800000000000000
+      internalID: 3670879817444622852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_126
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 3656
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aedabcee1d1b0cb40800000000000000
+      internalID: 5458558263585648106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_127
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 3648
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00bf890032deb1b60800000000000000
+      internalID: 7718023121019140864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_128
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 3556
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3152f4e1bd1da0720800000000000000
+      internalID: 2813291656282842387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_129
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 3444
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98212f0c53b538e50800000000000000
+      internalID: 6810387347942806153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_130
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 3329
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f19cd820f563bed0800000000000000
+      internalID: -2399462094306242063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_131
+      rect:
+        serializedVersion: 2
+        x: 4515
+        y: 3286
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7d9c464894f0150800000000000000
+      internalID: 5840968074698282967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_132
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 3257
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d737e2c8273aa40f0800000000000000
+      internalID: -1131912643956804739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_133
+      rect:
+        serializedVersion: 2
+        x: 4407
+        y: 3251
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41edc22981a6ec40800000000000000
+      internalID: 5541294001892483406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_134
+      rect:
+        serializedVersion: 2
+        x: 4464
+        y: 3227
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b968c0bf58f6130a0800000000000000
+      internalID: -6903614132549024101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_135
+      rect:
+        serializedVersion: 2
+        x: 4570
+        y: 3214
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951aa2f59199574b0800000000000000
+      internalID: -5443276240357514919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_136
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 3168
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2929ddfd86354b820800000000000000
+      internalID: 2933060967222579858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_137
+      rect:
+        serializedVersion: 2
+        x: 4509
+        y: 3151
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43d1f6c0a7059010800000000000000
+      internalID: 1194869663250633547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_138
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 3139
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e5f0dc3bd6ec710800000000000000
+      internalID: 1715429127081647700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_139
+      rect:
+        serializedVersion: 2
+        x: 4363
+        y: 3137
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b56b2fbab9c4d200800000000000000
+      internalID: 204009687046907320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_140
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 3118
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f656ac9abc9560230800000000000000
+      internalID: 3604667283018507631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_141
+      rect:
+        serializedVersion: 2
+        x: 4363
+        y: 3129
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68415797d6994680800000000000000
+      internalID: -8770312946626508694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_142
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 3105
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4a3d3e9e5598230800000000000000
+      internalID: 3641536236743795890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_143
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 3113
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640458efdb8e9fbf0800000000000000
+      internalID: -289944798272077754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_144
+      rect:
+        serializedVersion: 2
+        x: 4375
+        y: 3121
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5843103f64770df50800000000000000
+      internalID: 6904149375367328901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_145
+      rect:
+        serializedVersion: 2
+        x: 4381
+        y: 3118
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b4fc047071864b0800000000000000
+      internalID: -5447078429385077905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_146
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 3110
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f788cbbe0959760800000000000000
+      internalID: 7464031299591241521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_147
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 3110
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d5c28bc309a3540800000000000000
+      internalID: 4988458127728598339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_148
+      rect:
+        serializedVersion: 2
+        x: 4386
+        y: 3113
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a48c2018366d3c0800000000000000
+      internalID: -4335168185548912032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_149
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 3013
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f0e9fc9d6f99620800000000000000
+      internalID: 2781525660229570350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_150
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 3014
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63621101e3e12c90800000000000000
+      internalID: -7196220174036212885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_151
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 3017
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b937d4d835bff1fb0800000000000000
+      internalID: -4674741551915764837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_152
+      rect:
+        serializedVersion: 2
+        x: 4325
+        y: 2983
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a4244fe1c842950800000000000000
+      internalID: 6423413033112062555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_153
+      rect:
+        serializedVersion: 2
+        x: 4343
+        y: 2974
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228f9cedee20cecd0800000000000000
+      internalID: -2527642065898440670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_154
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 2960
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a44e242441a3ff0800000000000000
+      internalID: -55709770566055409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_155
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 2948
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783c05a7732ae3680800000000000000
+      internalID: -8773396664912133241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_156
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 2920
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3208b7697ab6f52c0800000000000000
+      internalID: -4440712340035633117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_157
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 2904
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5d4bf87dcc09e50800000000000000
+      internalID: 6814171462412588474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_158
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 2897
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac6ee2ee12ddbb70800000000000000
+      internalID: 8916513867361578151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_159
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 2825
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f1f511d3cae39c0800000000000000
+      internalID: -3945526845245546704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_160
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 2728
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862b894bcd2413e90800000000000000
+      internalID: -7047778426167971224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_161
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 2720
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad21fc71b92052200800000000000000
+      internalID: 154532627356783322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_162
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 2681
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16dd7c181a76042a0800000000000000
+      internalID: -6755285497690989215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_163
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 2667
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4fc4d570b033bb30800000000000000
+      internalID: 4301835603518213963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_164
+      rect:
+        serializedVersion: 2
+        x: 4387
+        y: 2631
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fcbfb86c225d0cf0800000000000000
+      internalID: -284480850765038346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_165
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 2599
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72e3648a801c76d0800000000000000
+      internalID: -2991497865368182146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_166
+      rect:
+        serializedVersion: 2
+        x: 4344
+        y: 2515
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f1286351763e9d0800000000000000
+      internalID: -2746238006959399035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_167
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 2386
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d43f439dfcc9c00800000000000000
+      internalID: 908829756625210722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_168
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 2384
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad1a8735fbd8b150800000000000000
+      internalID: 5888698359032192431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_169
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 2393
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baeab6878b92beb10800000000000000
+      internalID: 2011747530822102699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_170
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 2359
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 076e45c2e302b4300800000000000000
+      internalID: 237318856770905712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_171
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 2336
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c95fe939cf57200800000000000000
+      internalID: 177325471308291217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_172
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 2327
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bdb5e3fcae59f7c0800000000000000
+      internalID: -4037091494041633351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_173
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 2298
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f724a6dabdf8d60800000000000000
+      internalID: 7894770209662336790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_174
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 2295
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046a5050237b69560800000000000000
+      internalID: 7320239669797824064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_175
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 2295
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea47d71336c94690800000000000000
+      internalID: -7617339371974866195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_176
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 2227
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de18136b397798e0800000000000000
+      internalID: -1686746239454404911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_177
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 2167
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d43106f0540db30800000000000000
+      internalID: 4310020775732268389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_178
+      rect:
+        serializedVersion: 2
+        x: 4510
+        y: 1947
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106d55817ec03c4a0800000000000000
+      internalID: -6574396844345534975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_179
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 1812
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce83ce506a7a2f30800000000000000
+      internalID: 4551584927736630985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_180
+      rect:
+        serializedVersion: 2
+        x: 4573
+        y: 1810
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37f90a06c78604c0800000000000000
+      internalID: -4321617507773712579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_181
+      rect:
+        serializedVersion: 2
+        x: 4353
+        y: 1797
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0072af2db400abe0800000000000000
+      internalID: -1468168267928276977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_182
+      rect:
+        serializedVersion: 2
+        x: 4629
+        y: 1731
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40528b8d79fe747e0800000000000000
+      internalID: -1781191692146694908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_183
+      rect:
+        serializedVersion: 2
+        x: 4597
+        y: 1692
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871614114440ac7c0800000000000000
+      internalID: -4050420224472555144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_184
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 875
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d945b5468238c10800000000000000
+      internalID: 2054530266505190709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_185
+      rect:
+        serializedVersion: 2
+        x: 2833
+        y: 861
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6316ea44afcfcc0800000000000000
+      internalID: -3675788022950840661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_186
+      rect:
+        serializedVersion: 2
+        x: 2846
+        y: 861
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec3c1f8700b00c30800000000000000
+      internalID: 4323649188787928292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_187
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 843
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3b9b08cbe63cf70800000000000000
+      internalID: 9206323819167986681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_188
+      rect:
+        serializedVersion: 2
+        x: 2983
+        y: 850
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cdc717122cc374f0800000000000000
+      internalID: -832097059345019452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_189
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 826
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7b09ac037037500800000000000000
+      internalID: 392665498649671632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_190
+      rect:
+        serializedVersion: 2
+        x: 2509
+        y: 819
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533ed6c99818f99d0800000000000000
+      internalID: -2765349218147245259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syg_anime-animal-7024080_191
+      rect:
+        serializedVersion: 2
+        x: 2493
+        y: 786
+        width: 92
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a70e57a3e0a3280800000000000000
+      internalID: -9062915655881164203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      syg_anime-animal-7024080_0: -7811654762998630694
+      syg_anime-animal-7024080_1: -2197400395592913722
+      syg_anime-animal-7024080_10: 6140581011734641083
+      syg_anime-animal-7024080_100: 6495527859723116834
+      syg_anime-animal-7024080_101: -4682103830262201198
+      syg_anime-animal-7024080_102: 938893308958465430
+      syg_anime-animal-7024080_103: -3452614001020767552
+      syg_anime-animal-7024080_104: 2304476733422240731
+      syg_anime-animal-7024080_105: 6545850383129469957
+      syg_anime-animal-7024080_106: -1714375730158770003
+      syg_anime-animal-7024080_107: -48873119776585157
+      syg_anime-animal-7024080_108: -2901792674259756559
+      syg_anime-animal-7024080_109: -7423578379014348159
+      syg_anime-animal-7024080_11: -717982148130217693
+      syg_anime-animal-7024080_110: -8363249788683861881
+      syg_anime-animal-7024080_111: 4873041469944189741
+      syg_anime-animal-7024080_112: -3172181325159091786
+      syg_anime-animal-7024080_113: -4754544645598002437
+      syg_anime-animal-7024080_114: -7746532187626670085
+      syg_anime-animal-7024080_115: 6911017971372540317
+      syg_anime-animal-7024080_116: -4549355362863594435
+      syg_anime-animal-7024080_117: 7748376039766790457
+      syg_anime-animal-7024080_118: 2974249240984931083
+      syg_anime-animal-7024080_119: -894111537927052680
+      syg_anime-animal-7024080_12: -7141544149818702715
+      syg_anime-animal-7024080_120: 4153960643928166036
+      syg_anime-animal-7024080_121: 352371549312800622
+      syg_anime-animal-7024080_122: -6214790625643974991
+      syg_anime-animal-7024080_123: 4024799546986167681
+      syg_anime-animal-7024080_124: 1455168438173214628
+      syg_anime-animal-7024080_125: 3670879817444622852
+      syg_anime-animal-7024080_126: 5458558263585648106
+      syg_anime-animal-7024080_127: 7718023121019140864
+      syg_anime-animal-7024080_128: 2813291656282842387
+      syg_anime-animal-7024080_129: 6810387347942806153
+      syg_anime-animal-7024080_13: -3337470741116039252
+      syg_anime-animal-7024080_130: -2399462094306242063
+      syg_anime-animal-7024080_131: 5840968074698282967
+      syg_anime-animal-7024080_132: -1131912643956804739
+      syg_anime-animal-7024080_133: 5541294001892483406
+      syg_anime-animal-7024080_134: -6903614132549024101
+      syg_anime-animal-7024080_135: -5443276240357514919
+      syg_anime-animal-7024080_136: 2933060967222579858
+      syg_anime-animal-7024080_137: 1194869663250633547
+      syg_anime-animal-7024080_138: 1715429127081647700
+      syg_anime-animal-7024080_139: 204009687046907320
+      syg_anime-animal-7024080_14: 1440494184078262693
+      syg_anime-animal-7024080_140: 3604667283018507631
+      syg_anime-animal-7024080_141: -8770312946626508694
+      syg_anime-animal-7024080_142: 3641536236743795890
+      syg_anime-animal-7024080_143: -289944798272077754
+      syg_anime-animal-7024080_144: 6904149375367328901
+      syg_anime-animal-7024080_145: -5447078429385077905
+      syg_anime-animal-7024080_146: 7464031299591241521
+      syg_anime-animal-7024080_147: 4988458127728598339
+      syg_anime-animal-7024080_148: -4335168185548912032
+      syg_anime-animal-7024080_149: 2781525660229570350
+      syg_anime-animal-7024080_15: -1131454112915323758
+      syg_anime-animal-7024080_150: -7196220174036212885
+      syg_anime-animal-7024080_151: -4674741551915764837
+      syg_anime-animal-7024080_152: 6423413033112062555
+      syg_anime-animal-7024080_153: -2527642065898440670
+      syg_anime-animal-7024080_154: -55709770566055409
+      syg_anime-animal-7024080_155: -8773396664912133241
+      syg_anime-animal-7024080_156: -4440712340035633117
+      syg_anime-animal-7024080_157: 6814171462412588474
+      syg_anime-animal-7024080_158: 8916513867361578151
+      syg_anime-animal-7024080_159: -3945526845245546704
+      syg_anime-animal-7024080_16: -8363024350866707128
+      syg_anime-animal-7024080_160: -7047778426167971224
+      syg_anime-animal-7024080_161: 154532627356783322
+      syg_anime-animal-7024080_162: -6755285497690989215
+      syg_anime-animal-7024080_163: 4301835603518213963
+      syg_anime-animal-7024080_164: -284480850765038346
+      syg_anime-animal-7024080_165: -2991497865368182146
+      syg_anime-animal-7024080_166: -2746238006959399035
+      syg_anime-animal-7024080_167: 908829756625210722
+      syg_anime-animal-7024080_168: 5888698359032192431
+      syg_anime-animal-7024080_169: 2011747530822102699
+      syg_anime-animal-7024080_17: 1490082520118994149
+      syg_anime-animal-7024080_170: 237318856770905712
+      syg_anime-animal-7024080_171: 177325471308291217
+      syg_anime-animal-7024080_172: -4037091494041633351
+      syg_anime-animal-7024080_173: 7894770209662336790
+      syg_anime-animal-7024080_174: 7320239669797824064
+      syg_anime-animal-7024080_175: -7617339371974866195
+      syg_anime-animal-7024080_176: -1686746239454404911
+      syg_anime-animal-7024080_177: 4310020775732268389
+      syg_anime-animal-7024080_178: -6574396844345534975
+      syg_anime-animal-7024080_179: 4551584927736630985
+      syg_anime-animal-7024080_18: -3906518479406299652
+      syg_anime-animal-7024080_180: -4321617507773712579
+      syg_anime-animal-7024080_181: -1468168267928276977
+      syg_anime-animal-7024080_182: -1781191692146694908
+      syg_anime-animal-7024080_183: -4050420224472555144
+      syg_anime-animal-7024080_184: 2054530266505190709
+      syg_anime-animal-7024080_185: -3675788022950840661
+      syg_anime-animal-7024080_186: 4323649188787928292
+      syg_anime-animal-7024080_187: 9206323819167986681
+      syg_anime-animal-7024080_188: -832097059345019452
+      syg_anime-animal-7024080_189: 392665498649671632
+      syg_anime-animal-7024080_19: -1223399717424299429
+      syg_anime-animal-7024080_190: -2765349218147245259
+      syg_anime-animal-7024080_191: -9062915655881164203
+      syg_anime-animal-7024080_2: 1606987603591294786
+      syg_anime-animal-7024080_20: -429128103139766947
+      syg_anime-animal-7024080_21: -2665073367086791295
+      syg_anime-animal-7024080_22: 8242281481511302441
+      syg_anime-animal-7024080_23: 5839008988027505774
+      syg_anime-animal-7024080_24: -8516438803239562354
+      syg_anime-animal-7024080_25: 3168044014799433441
+      syg_anime-animal-7024080_26: -1572682103861229314
+      syg_anime-animal-7024080_27: 7693656707557988244
+      syg_anime-animal-7024080_28: -8970215694655857304
+      syg_anime-animal-7024080_29: -5625848477107306346
+      syg_anime-animal-7024080_3: 2794909616219323353
+      syg_anime-animal-7024080_30: 208482358243818651
+      syg_anime-animal-7024080_31: -2995641131754787979
+      syg_anime-animal-7024080_32: -746960282377209854
+      syg_anime-animal-7024080_33: -4724718186535117236
+      syg_anime-animal-7024080_34: -3303231206415656776
+      syg_anime-animal-7024080_35: 4504057097821869240
+      syg_anime-animal-7024080_36: 6729539127457864088
+      syg_anime-animal-7024080_37: 6985195052386562123
+      syg_anime-animal-7024080_38: -2429398473764399901
+      syg_anime-animal-7024080_39: -6011008976076866702
+      syg_anime-animal-7024080_4: 2012067468134286958
+      syg_anime-animal-7024080_40: -4952845257067818193
+      syg_anime-animal-7024080_41: -5054011049525664029
+      syg_anime-animal-7024080_42: 8146596315836866008
+      syg_anime-animal-7024080_43: -1456798793502119801
+      syg_anime-animal-7024080_44: 5975136424044135573
+      syg_anime-animal-7024080_45: 7241913305697196169
+      syg_anime-animal-7024080_46: 2316330755299323691
+      syg_anime-animal-7024080_47: -3647041360905093965
+      syg_anime-animal-7024080_48: 7350586480369679584
+      syg_anime-animal-7024080_49: 7345993015677798563
+      syg_anime-animal-7024080_5: -7346738529022205620
+      syg_anime-animal-7024080_50: 7182585900076626830
+      syg_anime-animal-7024080_51: 6803842303747904016
+      syg_anime-animal-7024080_52: 1997149121287167775
+      syg_anime-animal-7024080_53: 7917432520754725491
+      syg_anime-animal-7024080_54: 1085830633340769943
+      syg_anime-animal-7024080_55: -2846963322645641351
+      syg_anime-animal-7024080_56: -4887623495525546824
+      syg_anime-animal-7024080_57: -959869095989634108
+      syg_anime-animal-7024080_58: 1489671818065325450
+      syg_anime-animal-7024080_59: -8987399782339590750
+      syg_anime-animal-7024080_6: 1035972713472277157
+      syg_anime-animal-7024080_60: -2823245978232726059
+      syg_anime-animal-7024080_61: 6895753530343834788
+      syg_anime-animal-7024080_62: 8599346703098971183
+      syg_anime-animal-7024080_63: 423002770770700890
+      syg_anime-animal-7024080_64: 6411602058168263153
+      syg_anime-animal-7024080_65: 7006924263050377119
+      syg_anime-animal-7024080_66: -7550986544362922909
+      syg_anime-animal-7024080_67: -7138988356947805562
+      syg_anime-animal-7024080_68: -5189383851483971128
+      syg_anime-animal-7024080_69: 1793825268230038959
+      syg_anime-animal-7024080_7: -702807203860026778
+      syg_anime-animal-7024080_70: -9198474925405180294
+      syg_anime-animal-7024080_71: -2554450391926482062
+      syg_anime-animal-7024080_72: -6071338693083643288
+      syg_anime-animal-7024080_73: -2889949384683274812
+      syg_anime-animal-7024080_74: -870141640118947120
+      syg_anime-animal-7024080_75: -6535309489547638362
+      syg_anime-animal-7024080_76: 3691534580391717264
+      syg_anime-animal-7024080_77: -206136974844059827
+      syg_anime-animal-7024080_78: -2934162864155989915
+      syg_anime-animal-7024080_79: 7320006191095610046
+      syg_anime-animal-7024080_8: 2458243889135591094
+      syg_anime-animal-7024080_80: 4709355158992165855
+      syg_anime-animal-7024080_81: -2230284291104204387
+      syg_anime-animal-7024080_82: -2512235697628967269
+      syg_anime-animal-7024080_83: -8040838266260142561
+      syg_anime-animal-7024080_84: 736009331252198573
+      syg_anime-animal-7024080_85: 3653787849275171711
+      syg_anime-animal-7024080_86: 3949670655353177650
+      syg_anime-animal-7024080_87: -651158063963545912
+      syg_anime-animal-7024080_88: 2664905614359398900
+      syg_anime-animal-7024080_89: 1525039311838770669
+      syg_anime-animal-7024080_9: 3717469389489868877
+      syg_anime-animal-7024080_90: -604465384238455296
+      syg_anime-animal-7024080_91: 2260146062578157785
+      syg_anime-animal-7024080_92: -1148874124971361780
+      syg_anime-animal-7024080_93: 4172590976819168328
+      syg_anime-animal-7024080_94: -1057282742255963171
+      syg_anime-animal-7024080_95: -5132570279397125483
+      syg_anime-animal-7024080_96: -1893494808389781882
+      syg_anime-animal-7024080_97: 1638150186845199132
+      syg_anime-animal-7024080_98: -7041236414093235140
+      syg_anime-animal-7024080_99: -7359498317019964502
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
