@@ -26,7 +26,7 @@ public class Tracker : MonoBehaviour
 
     public void OnMoodButtonClicked(MoodsEnum mood)
     {
-        var trackedDays = "Assets/Resources/TrackedDays.txt";
+        var trackedDays = Path.Combine(Application.persistentDataPath, "TrackedDays.txt");
         var today = DateTime.Now.Day;
 
         if (File.Exists(trackedDays))

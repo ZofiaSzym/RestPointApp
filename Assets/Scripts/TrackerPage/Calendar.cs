@@ -12,7 +12,7 @@ public class Calendar : MonoBehaviour
 
     private void Start()
     {
-        var trackedDays = "Assets/Resources/TrackedDays.txt";
+        var trackedDays = Path.Combine(Application.persistentDataPath, "TrackedDays.txt");
 
         if (File.Exists(trackedDays))
         {
